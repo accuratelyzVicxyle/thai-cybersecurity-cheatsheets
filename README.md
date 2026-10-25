@@ -1,7 +1,6 @@
 # Thai Cybersecurity Cheatsheets
 
-Thai translations of the crypto cheatsheets from
-[`hoafnganh/Practice`](https://github.com/hoafnganh/Practice).
+sigma skibidi
 
 ## Documents
 
