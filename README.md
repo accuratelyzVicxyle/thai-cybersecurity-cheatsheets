@@ -12,6 +12,10 @@ sigma skibidi
 - [Digital forensics](thai/digital-forensics.md)
 - [Download all Markdown documents](Thai-CyberSEA-Cheatsheets.zip)
 
+## Contributors
+
+- [@whispergenz](https://github.com/whispergenz)
+
 ## Local viewer
 
 The included viewer renders Markdown, tables, embedded screenshots, and Mermaid
